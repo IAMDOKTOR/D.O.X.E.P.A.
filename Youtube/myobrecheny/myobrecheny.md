@@ -11,5 +11,5 @@
 Программистам, разработчикам - для расширения кругозора. Людям вне айти - для разрушения мифов о мире АйТи и знакомства со сферой.
 
 ### Ссылки
-[Ютуб](https://www.youtube.com/@myobrecheny)
+[Ютуб](https://www.youtube.com/@myobrecheny)  
 [Твиттер](https://twitter.com/myobrecheny)

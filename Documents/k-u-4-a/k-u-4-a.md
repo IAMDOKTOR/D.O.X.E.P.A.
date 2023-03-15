@@ -12,5 +12,5 @@
 Людям технического склада ума, которым чаще всего тяжело даются лингвистические конструкции.
 
 ### Ссылки
-[Гугл-док](https://docs.google.com/document/d/1XAwAedzgds_8ghvDGEaN4T4WgZ6w8s-V/edit)
+[Гугл-док](https://docs.google.com/document/d/1XAwAedzgds_8ghvDGEaN4T4WgZ6w8s-V/edit)  
 [Автор](https://twitter.com/IAMTHEDOKTOR_RU)
